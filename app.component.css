@@ -1,0 +1,13 @@
+input {
+    border: 1px solid #595959;
+    padding: 7px;
+    width: 98%;
+}
+
+
+.input-invalid {
+
+    border-color: red;
+}
+
+.error{color:red;}
